@@ -193,7 +193,7 @@
                 "5": {
                     "name": "def.exe",
                     "hashes": {
-                        "MD5": "7b15f570a23a5c5ce8ff942da60834a9d0549ea3ea9f34f900a09331325df893"
+                        "SHA-256": "7b15f570a23a5c5ce8ff942da60834a9d0549ea3ea9f34f900a09331325df893"
                     },
                     "type": "file"
                 }
@@ -231,7 +231,7 @@
                 "5": {
                     "name": "exp.exe",
                     "hashes": {
-                        "SHA-1": "3780f5828fc05bf74649393169f70fafb0ffed25"
+                        "SHA-256": "0c1eb11de3a533689267ba075e49d93d55308525c04d6aff0d2c54d1f52f5500"
                     },
                     "type": "file"
                 }
