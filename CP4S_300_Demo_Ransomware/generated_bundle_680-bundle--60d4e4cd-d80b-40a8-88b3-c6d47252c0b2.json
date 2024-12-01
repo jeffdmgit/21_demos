@@ -191,9 +191,9 @@
                     "type": "user-account"
                 },
                 "5": {
-                    "name": "ryuk-bin.exe",
+                    "name": "def.exe",
                     "hashes": {
-                        "MD5": "5ac0f050f93f86e69026faea1fbb4450"
+                        "MD5": "7b15f570a23a5c5ce8ff942da60834a9d0549ea3ea9f34f900a09331325df893"
                     },
                     "type": "file"
                 }
@@ -229,7 +229,7 @@
                     "type": "user-account"
                 },
                 "5": {
-                    "name": "ruyk.bin",
+                    "name": "exp.exe",
                     "hashes": {
                         "SHA-1": "3780f5828fc05bf74649393169f70fafb0ffed25"
                     },
